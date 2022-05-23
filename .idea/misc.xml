@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable-v24/button.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable-v24/ic_explore.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable-v24/ic_home.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable-v24/ic_settings.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/card.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_building.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_bus__1_.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_car_rental__1_.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_city.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_courier.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_data_management__1_.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_idea.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_motorcycle.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_residential.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_suitcase_1.xml" value="0.1" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_take_away.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_washing_machine.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/drawable/ic_wifi_router.xml" value="0.219" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/layout/activity_hotels.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/layout/activity_location.xml" value="0.1" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/layout/activity_main.xml" value="0.24448897795591182" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/layout/layout_images.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/krish/AndroidStudioProjects/iconsettings/app/src/main/res/menu/bottommenu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
